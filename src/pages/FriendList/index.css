@@ -30,9 +30,11 @@ button{
 }
 input{
     height: 40px;
-    width: 98%;
+    width: 96%;
     margin-top: 5px;
+    margin-left: 5px;
 }
+
 .pagination{
     height: 40px;
     display: flex;
