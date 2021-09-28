@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FriendsListApp/static/css/main.7fa21f05.chunk.css",
+    "main.js": "/FriendsListApp/static/js/main.6b14740c.chunk.js",
+    "main.js.map": "/FriendsListApp/static/js/main.6b14740c.chunk.js.map",
+    "runtime-main.js": "/FriendsListApp/static/js/runtime-main.e2d455af.js",
+    "runtime-main.js.map": "/FriendsListApp/static/js/runtime-main.e2d455af.js.map",
+    "static/js/2.dd71943f.chunk.js": "/FriendsListApp/static/js/2.dd71943f.chunk.js",
+    "static/js/2.dd71943f.chunk.js.map": "/FriendsListApp/static/js/2.dd71943f.chunk.js.map",
+    "static/js/3.b1fb0901.chunk.js": "/FriendsListApp/static/js/3.b1fb0901.chunk.js",
+    "static/js/3.b1fb0901.chunk.js.map": "/FriendsListApp/static/js/3.b1fb0901.chunk.js.map",
+    "index.html": "/FriendsListApp/index.html",
+    "static/css/main.7fa21f05.chunk.css.map": "/FriendsListApp/static/css/main.7fa21f05.chunk.css.map",
+    "static/js/2.dd71943f.chunk.js.LICENSE.txt": "/FriendsListApp/static/js/2.dd71943f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2d455af.js",
+    "static/js/2.dd71943f.chunk.js",
+    "static/css/main.7fa21f05.chunk.css",
+    "static/js/main.6b14740c.chunk.js"
+  ]
+}
