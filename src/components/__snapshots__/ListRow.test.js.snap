@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match ListRow Snapshot 1`] = `
+<div
+  className="item"
+  data-testid="listRowhead"
+>
+  <div
+    className="item-name"
+    data-testid="listRowLabel"
+  >
+    <h4>
+      Abhi
+      <span>
+        is your freind
+      </span>
+    </h4>
+  </div>
+  <div
+    className="item-actions"
+    data-testid="listRowButton"
+  >
+    <button
+      onClick={[Function]}
+    >
+      <i
+        className="far fa-star"
+      />
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      <i
+        className="fas fa-trash-alt"
+      />
+    </button>
+  </div>
+</div>
+`;

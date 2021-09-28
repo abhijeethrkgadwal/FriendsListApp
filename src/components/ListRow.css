@@ -1,0 +1,32 @@
+.item{
+  display: flex;
+  height: 60px;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px solid #c3bcbc;
+}
+
+.item-name{
+  margin-left: 10px;
+}
+
+.item-name h4 span{
+  font-size: 10px;
+  display: block;
+  font-weight: 400;
+}
+
+.item-actions{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
+.item-actions button{
+  height: 60%;
+  margin-right: 10px;
+  padding: 8px;
+  width: 40px;
+  cursor: pointer;
+}
